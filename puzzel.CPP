@@ -86,7 +86,7 @@ void intro()
 void printmenu()
 {
    int i;
-   gotoxy(33,1);printf("SHUFFLE GAME");
+   gotoxy(33,1);printf("PUZZEL GAME");
    gotoxy(1,2);
    for(i=0; i<80; i++)
    printf("\xcd");
