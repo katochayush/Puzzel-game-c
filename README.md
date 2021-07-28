@@ -1,5 +1,7 @@
  <a href="https://discord.gg/uxZSS9HavF"><img src="https://img.shields.io/discord/766634629657919512?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
-
+![GitHub followers](https://img.shields.io/github/followers/katochayush?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/AYUSHKATOCH12?style=social)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCFhFdoMvHFGS7kpKZ3vC5ig?style=social)
 # Puzzel-game-c
 Puzzel game made for project in c++
 This program is good example of using graphics concept to develop an application using C++. Under this game a number game has been prepared by which users will able to get graphical mode on command line interface.
